@@ -13,11 +13,11 @@ Clover and OpenCore EFI folders for M73 i3 version (10AY001RUS). Everything work
 | CPU | Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz
 | Memory | 1x8GB / 1x4GB Samsung DDR3 1600MHz (PN: M471B5173DB0-YK0)
 | GPU | Intel HD Graphics 4400
-| Storage | PNY CS900 SSD 240GB
+| Storage | Kingston SSD 240GB
 | Audio | Realtek ALC283
 | Wifi | Asus AC53 Nano USB (using chris-1111 big-sur-oc-wifi-adapter driver v6)
 | Ethernet | Intel I217V
-| Display | Acer S231HL 1080p
+| Display | Samsung 27" 4K
 | Keyboard | Apple Magic Keyboard
 | Mouse | Apple Magic Trackpad
 | Clover | 5098
